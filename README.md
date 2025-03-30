@@ -3,3 +3,5 @@
 **Desarrollar un sistema el cual permita calcular el facterial de un número usando el bucle de for**
 
 **Act - Remplazar el sistema actual y desarrollandolo usando recursividsad**
+
+**Act - Verificar casos y resolver casos al uso de la función de calculo de factorial**
